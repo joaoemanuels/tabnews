@@ -1,6 +1,7 @@
 
 # Ignorar a pasta node_modules
 node_modules/
+.next
  
 
 # Ignorar arquivos temporários de editores de texto
