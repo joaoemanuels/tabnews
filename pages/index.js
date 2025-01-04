@@ -7,6 +7,7 @@ function Home() {
   );
 }
 function teste() {
+  console.log("test");
   console.log("teste");
 }
 
