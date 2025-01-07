@@ -6,8 +6,5 @@ function Home() {
     </div>
   );
 }
-function teste() {
-  console.log("teste");
-}
 
 export default Home;
